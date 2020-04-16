@@ -3,6 +3,6 @@
 
 The baseline solution in in `baseline.ipynb`
 
-Train data is available on the course platform. Test data will be available in the evaluation iштеукафсую
+Train data is available on the course platform. Test data will be available in the evaluation interface.
  
  Accuracy to pass: 75%
